@@ -1,6 +1,6 @@
 # Automatic-License-Number-Plate-Recognition-(ANPR)-and-Retriveing its details
 OpenCV: Automatic License/Number Plate Recognition (ANPR) with Python and Retriving its detail.
-#this task comprises of following steps :
+# this task comprises of following steps :
 
 👉Create a model that will detect a car and recognize characters on number plate of the car .
 
